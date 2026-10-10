@@ -31,7 +31,9 @@ Instead of only calling an AI API, I try to build the pieces myself: the **token
 class Ashwin:
     role     = "Student & AI systems builder"
     focus    = ["LLMs from scratch", "AI agents", "FastAPI backends", "RAG"]
-    languages = ["Python", "C", "C++"]
+    languages = ["Python", "C", "C++", "JavaScript"]
+    toolbox   = ["PyTorch", "LangChain", "NumPy", "Pandas", "Matplotlib"]
+    web       = ["HTML", "CSS", "JS", "Flask", "FastAPI"]
     learning = ["Transformers", "Evaluation", "Retrieval", "DSA patterns"]
     approach = "Learn it. Build it. Break it. Fix it. Document it."
 ```
@@ -108,16 +110,21 @@ The path to AshGPT went through a few versions. These repos show how I got there
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI / ML**
+**Machine Learning, Deep Learning & Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Backend & Web**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -128,7 +135,7 @@ The path to AshGPT went through a few versions. These repos show how I got there
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-> Web dev is a practical foundation for me, and my depth is in Python, AI, and backend work.
+> I know the web basics (HTML, CSS, JS), and my real depth is in Python, ML/DL, and backend work.
 
 ---
 
@@ -165,12 +172,6 @@ The path to AshGPT went through a few versions. These repos show how I got there
 *Practicing for patterns and understanding, not just problem counts.*
 
 </div>
-
----
-
-## 🎲 Off the keyboard
-
-I solve the 3×3 Rubik's Cube (layer-by-layer for now) and I'm working toward **CFOP** and faster solves.
 
 ---
 
