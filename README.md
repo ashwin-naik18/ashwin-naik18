@@ -165,7 +165,6 @@ The path to AshGPT went through a few versions. These repos show how I got there
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwin-naik18&theme=tokyo-night&bg_color=0a0f1e&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution skyline"/>
 
