@@ -1,7 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     Ashwin Naik — GitHub Profile README
-     Save this as README.md in a repo named exactly: ashwin-naik18
-     ═══════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
 
